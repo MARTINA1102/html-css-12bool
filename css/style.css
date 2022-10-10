@@ -1,0 +1,12 @@
+[class*=col]{
+    background-color: rgb(54, 54, 238);
+    border: 1px solid white;
+    padding: .5rem;
+    color: white;
+}
+
+[class*=card]{
+    background-color: rgb(9, 177, 9);
+    border: 1px solid rgb(54, 54, 238);
+    padding: .5rem;
+}
